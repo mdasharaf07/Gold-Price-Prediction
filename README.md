@@ -25,7 +25,7 @@ Model evaluation using metrics like MAE, RMSE, and R² Score
 Price prediction and visualization
 
 # 🧠 Tech Stack
-Python 🐍
+Python 
 
 Pandas, NumPy
 
